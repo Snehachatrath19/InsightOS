@@ -135,20 +135,7 @@ Business Insights
 
 ---
 
-# 📈 Future Improvements
 
-The long-term vision for InsightOS includes AI-powered business intelligence features such as:
-
-- AI-generated business insights
-- Decision recommendations
-- Sales forecasting
-- Customer segmentation
-- Interactive chatbot for business analytics
-- Predictive analytics
-- Streamlit web application
-- OpenAI integration
-
----
 
 # 👩‍💻 Author
 
