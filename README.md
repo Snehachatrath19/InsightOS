@@ -6,7 +6,7 @@
 
 ## 🚀 Project Overview
 
-InsightOS is a business analytics project that demonstrates the complete data analysis workflow—from raw CSV files to an interactive Power BI dashboard.
+InsightOS is a business analytics project that demonstrates the complete data analysis workflow from raw CSV files to an interactive Power BI dashboard.
 
 The project includes:
 
