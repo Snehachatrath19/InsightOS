@@ -4,20 +4,22 @@
 
 ---
 
-## 🚀 Project Overview
+# 🚀 Project Overview
 
-InsightOS is a business analytics project that demonstrates the complete data analysis workflow from raw CSV files to an interactive Power BI dashboard.
+**InsightOS** is an end-to-end e-commerce analytics project built to analyze sales and operational performance using **Python, SQL, SQLite, and Power BI**.
 
-The project includes:
+The project transforms raw transactional data into a structured analytical dataset, calculates business KPIs, and presents the results through an interactive Power BI dashboard.
 
-- Data cleaning using Python
-- Exploratory Data Analysis (EDA)
-- SQL database creation with SQLite
-- KPI generation
-- Interactive Power BI dashboard
-- Business insight generation
+The analysis focuses on:
 
-This project simulates the workflow of a Data Analyst working with real business data.
+* Revenue and order performance
+* Order fulfillment status
+* Product category contribution
+* Seller performance
+* Average order value
+* Shipping cost patterns
+
+The project demonstrates a complete **Data Analytics and Business Intelligence workflow**, from data preparation and exploratory analysis to SQL-based analysis, KPI development, dashboard creation, and business insight generation.
 
 # 🎯 Business Questions
 
