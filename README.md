@@ -43,6 +43,8 @@ InsightOS was designed to help business stakeholders answer the following questi
 The interactive Power BI dashboard provides an overview of e-commerce sales, order fulfillment, seller performance, product categories, and shipping costs.
 
 ![InsightOS E-Commerce Sales Analytics Dashboard](image.png)
+![Uploading INSIGHT OS DASHBOARD.png…]()
+
 
 
 
